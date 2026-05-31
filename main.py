@@ -1,4 +1,4 @@
 
 
 def print():
-    println("nlz")
+    print("nlz")
